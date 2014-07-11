@@ -4,7 +4,8 @@ title: About
 ---
 
 <p class="message">
-Phone: Greeley 970-352-2820 | Ft. Collins 970-223-1433
+Phone: Greeley 970-352-2820<br/>
+Ft. Collins 970-223-1433<br/>
 Text: 970-301-0356
 </p>
 
@@ -18,5 +19,5 @@ and competitive rates on service. Call today and speak with the owner for
 great, honest service.
 
 --
-Russel Griffin
+Russel Griffin<br/>
 Owner
