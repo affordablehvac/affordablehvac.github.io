@@ -3,12 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-Phone: Greeley 970-352-2820<br/>
-Ft. Collins 970-223-1433<br/>
-Text: 970-301-0356
-</p>
-
 Affordable Heating & Air Conditioning, Inc. has been faithfully serving
 Northern Colorado Since 1992. We specialize in residential service, furnace
 replacements, A/C add-ons and replacements, mini-split A/C systems, basement
