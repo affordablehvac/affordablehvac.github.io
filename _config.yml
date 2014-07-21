@@ -13,3 +13,10 @@ description:      'Greeley: 970-352-2820<br/>
                    Text: 970-301-0356<br/>
                    <a href="mailto:affordablehvac@gmail.com">affordablehvac@gmail.com</a>'
 url:              http://www.affordablehvac.com
+baseurl:          /
+
+author:
+  name:           'Russel Griffin'
+  url:            http://www.affordablehvac.com
+
+paginate:         5
