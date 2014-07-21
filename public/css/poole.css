@@ -276,6 +276,9 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+  background-image: url("public/affordable_header.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
 }
 .masthead-title {
   margin-top: 0;
