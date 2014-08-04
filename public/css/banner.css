@@ -5,7 +5,7 @@
 .banner {
   height: 140px;
   width: 100%;
-  background-image: url("public/affordable_header.jpg");
+  background-image: url("/public/affordable_header.jpg");
   background-repeat: no-repeat;
   background-position: left top;
 }
