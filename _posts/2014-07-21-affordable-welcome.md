@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Affordable Heating & Air Conditioning.
 ---
 
-Affordalbe Heating & Air Conditioning offers excellent heating and air
+Affordable Heating & Air Conditioning offers excellent heating and air
 conditioning services to customers along Colorado's front range.
 
 ### Summer Specials!
