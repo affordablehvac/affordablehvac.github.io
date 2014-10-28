@@ -1,18 +1,15 @@
 ---
 layout: post
-title: Welcome to Affordable Heating & Air Conditioning.
+title: Fall Specials!
 ---
+We service **all makes and models** of air conditioners and furnances.
 
-Affordable Heating & Air Conditioning offers excellent heating and air
-conditioning services to customers along Colorado's front range.
+[Contact us](http://www.affordablehvac.com/contact-us/) to see our deals
+on service calls and repairs.
 
-### Summer Specials!
+If your furnance or A/C is not working,
+[call](http://www.affordablehvac.com/contact-us/) us and we'll fix it!
+**Anytime.**
 
-We service all makes and models of air conditioners.  Give us a
-[call](http://www.affordablehvac.com/contact-us/) if you are having problems
-with your unit.
-
-Mention this website and receive a discount!
-
-
-### Certified Trane Dealers
+We are *Certified [Trane](http://www.trane.com) Dealers*.
+![Trane AC](/public/img/trane_unstoppable.jpg)

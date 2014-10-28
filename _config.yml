@@ -6,12 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            '<img class="banner" src="/public/affordable_header_sm.jpg" alt="Affordable Heating & Air Conditioning" />'
+title:            "Affordable Heating & Air Conditioning"
 tagline:          "Where Quality and Integrity Meet...  It's Not Cheap It's Affordable!"
-description:      'Greeley: 970-352-2820<br/>
-                   Ft. Collins: 970-223-1433<br/>
-                   Text: 970-301-0356<br/>
-                   <a href="mailto:affordablehvac@gmail.com">affordablehvac@gmail.com</a>'
+description:      'Affordable Heating & Air Conditioning installation, service and repair'
 url:              http://www.affordablehvac.com
 baseurl:          /
 

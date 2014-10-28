@@ -8,7 +8,7 @@ title: Contact Us
 <p>Ft. Collins: 970-223-1433</p>
 
 <h2>Email</h2>
-<a href="mailto:affordablehvac@gmail.com">affordablehvac@gmail.com</a>
+<a href="mailto:info@affordablehvac.com">info@affordablehvac.com</a>
 
 <h2>Text</h2>
 <p>Text: 970-301-0356</p>
