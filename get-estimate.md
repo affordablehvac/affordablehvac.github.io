@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get an Estimate
+title: Get Estimate
 toggle: titleoff
 ---
 
