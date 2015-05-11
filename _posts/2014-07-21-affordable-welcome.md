@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall Specials!
+title: Spring and Summer Specials!
 ---
 We service **all makes and models** of air conditioners and furnances.
 
